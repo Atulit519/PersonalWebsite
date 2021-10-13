@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+
+.blankDiv{
+    background-color: black;
+    height: 7px;
+    width: 250px;
+    margin: auto;
+}
+
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color: lightcyan;
+}
+
+img{
+    transition: transform .2s;
+}
+
+img:hover{
+transform: scale(0.8);
+}
+
+#MeraCarousel{
+    background-color: aquamarine;
+}
